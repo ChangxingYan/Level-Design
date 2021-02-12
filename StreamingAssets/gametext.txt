@@ -1,0 +1,6 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	I have to go to the other side of the corridor.	1	N	PlayerDialogueImage	randomsound1
+1	Player	And you knew that, even before I did, didn't ya?	2	Y	PlayerDialogueImageMove	randomsound2
+5	Player	You are really good at it, ya' know?	999	N	PlayerDialogueImageTired	
+2	Player	wow, that was hard!	-1	Y	PlayerDialogueImageTired	randomsound3	
+999	Player	Next time let's try a different route and see how it goes!	2	Y	PlayerDialogueImage	randomsound3
